@@ -1,0 +1,125 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Exact and perfect relation of the arrival of the ship the James and Mary, Captain Phipps commander with 2000000l. in gold and silver taken up in nine fathom water from the bottom of the sea, being a suppos'd wreck of a Spanish galion, cast-away above 43 years ago among the Bahama Islands / as it was taken from the aforesaid captain ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38885</idno>
+            <idno type="STC">Wing E3604</idno>
+            <idno type="STC">ESTC R27354</idno>
+            <idno type="EEBO-CITATION">09818686</idno>
+            <idno type="OCLC">ocm 09818686</idno>
+            <idno type="VID">44176</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38885)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44176)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1356:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Exact and perfect relation of the arrival of the ship the James and Mary, Captain Phipps commander with 2000000l. in gold and silver taken up in nine fathom water from the bottom of the sea, being a suppos'd wreck of a Spanish galion, cast-away above 43 years ago among the Bahama Islands / as it was taken from the aforesaid captain ...</title>
+                  <author>Phips, William, Sir, 1651-1695.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1687]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James and Mary (Ship)</term>
+               <term>Salvage --  Bahamas.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:44176:1"/>
+            <head>An Exact and Perfect Relation Of the Arrival of the Ship the JAMES and MARY Captain PHIPPS Commander, With 200000 <hi>l.</hi> in <hi>Gold</hi> and <hi>Silver,</hi> taken up in nine Fathom Water from the bottom of the Sea, being a ſuppos'd Wreck of a <hi>Spaniſh</hi> Galion, Caſt-away above 43<g ref="char:punc">▪</g> years ago among the <hi>Bahama Iſlands,</hi> as it was taken from the aforeſaid Captain, now riding in <hi>Graves-end</hi> Road.</head>
+            <p>MAny have been the Attempts to diſcover the hidden Treaſure of the Ocean, which by ſome, is Judg'd to equalize that of the Earth, but few have ſucceded in this deſign, till the induſtri<g ref="char:EOLhyphen"/>ous Captain <hi>William Phipps,</hi> a Native of <hi>New-England,</hi> bent his Study and Reſolution to bring that Art to ſo great a Perfection, as to anticipate Fame, and without ſuch viſible Demonſtration, as he hath affor<g ref="char:EOLhyphen"/>ded us, to ſurmount belief it ſelf; For certainly to tell Mankind of taking up the <hi>Cargo</hi> of above 40 years Wreck in full Sea 17 Leagues from any Shoar in nine <hi>Fathem Water,</hi> would be thought to banter the Age, and turn the ſame to ridicule. But there having been ſuch a wonderful inſtance, which will fill our Pockets with Coyn, as well as our Ears with aſtoniſh<g ref="char:EOLhyphen"/>ment, I ſhall relate the particulars, <hi>(viz.)</hi>
+            </p>
+            <p>The ſaid Captain <hi>Phipps</hi> having for ſome years purſu'd the Art of weighing of Wrecks, and not without conſiderable progreſs; and having good information of a <hi>Spaniſh Galion,</hi> that was caſt away among the Rocks and Shoals of the <hi>Bahama Iſtands</hi> about the year 1643. not only by ſome <hi>Spaniards</hi> that were aboard her when ſhe was loſt, but alſo by obſer<g ref="char:EOLhyphen"/>vation of others that had been in ſearch after her, but all miſcarried in the point: The Captain had almoſt certain Knowledge that he might diſcover the place; and ſo like a good Subject acquainted His late Majeſty firſt with the deſign, proffering his Life and Fortunes at his Princes Service to ſearch after it. But whether the impropability of the Adventure being lookt upon as a <hi>Chimera,</hi> or ſome other reaſon, the Captain was not counte<g ref="char:EOLhyphen"/>nanced; The ſaid Captain thereupon acquainted ſome Noble-Men and Per<g ref="char:EOLhyphen"/>ſons of Quality with his fi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>'d Reſolution, and cogent Reaſons to induce the belief of that performance; they readily joyned iſſue with him, advan<g ref="char:EOLhyphen"/>cing what Money the Captain judg'd neceſſary to Equip him to Sea, being 2400 <hi>l.</hi> they being Perſons not to be impoſed upon, <hi>(viz.)</hi> His Grace the Duke of <hi>Alb.—e</hi> the Right Honourable the Lord <hi>F.—d,</hi> Sir <hi>James Hayes,</hi> Sir <hi>John Narborough,</hi> Mr. <hi>Nicholſon,</hi> Mr. <hi>Foxcraft,</hi> and Mr. <hi>Smith,</hi> becoming his Owners or Proprietors, himſelf having only a
+<pb n="2" facs="tcp:44176:2"/>Sixteenth part, who having provided himſelf with all materials, and one Ten<g ref="char:EOLhyphen"/>der and Sloop, Sailed out of the <hi>Downs</hi> in the Ship <hi>James</hi> and <hi>Mary</hi> about the 12. of <hi>September</hi> laſt, and having touched at ſome places for refreſhment, he arrived about the middle of <hi>February</hi> laſt among the <hi>Bahama Iſlands,</hi> Shoals and Rocks; and after ſome days ſearch happily pitch'd upon, and found the direct place where the <hi>Spaniſh Galiou</hi> in the year 1643. was caſt away with great Riches Aboard, though the ſame was above 17 Leagues from any thing of Shoar, to the <hi>Weſtward</hi> of <hi>Florida</hi> in nine <hi>Fathom Water,</hi> where, having Moor'd his Ship at ſome diſtance, ſet his four <hi>Divers</hi> at work, though they were mightily impeded by the Tempeſtiouſneſs of the Seaſon, that they were forced to lie by a long ſpace, having the pro<g ref="char:EOLhyphen"/>ſpect of Death every Minuit at the point of their Cable, for the Rocks were ſo numerous, that (like <hi>Scilla</hi> and <hi>Caribdis,</hi>) they were like to be ſplit upon one, while they were endeavouring to avoid the other; Be<g ref="char:EOLhyphen"/>ſides, they could not make uſe of their Engine, being a hollow Veſſel evenly depreſt almoſt to the bottom, retains the Air without filling with Water, whereby the Party diving, when almoſt ſpent his Breath, puts his head under the Veſſel which repleniſhes him with Breath again; and in this dangerous poſture they continued working above Six Weeks.</p>
+            <p>And that which is obſervable, not the leaſt Plank or Hull of the ſaid Ship appear'd; for the Ship being broak to pieces on the Rock, the parts were either driven away with the violence of the Waves, or conſum'd by the Worms which in thoſe Seas will Eat through the thickeſt Plank in ſome years time. And 'tis further remarkable, that the Silver had ſo long remain'd under Water, as to petrify a congeal'd Subſtance into White Coral-Trees growing thereon, ſome with mighty ſpreading Branches, even to a great height, which the Captain has Teſtimonials to ſhew, having pre<g ref="char:EOLhyphen"/>ſented his Grace the Duke with this Curioſity; and having taken up as much as they could well find, left the ſaid <hi>Bahama Iſland</hi> the ſecond of laſt <hi>May,</hi> and with ſome ſtreſs of Weather made ſight of <hi>Cilly Iſland</hi> the third of <hi>June</hi> following, and is now Happily arriv'd in the River of <hi>Thames</hi> on this ſide <hi>Graves end,</hi> with ſuch a Treaſure as to the Honour as well as Pro<g ref="char:EOLhyphen"/>fit of the, Nation no Ship ever perform'd the like. His Grace the Duke of <hi>Alb—</hi> upon the receipt of this News, accompanied with Sir <hi>James Hayes,</hi> &amp;c. went down the River, to bid the Captain Welcom; who com<g ref="char:EOLhyphen"/>ing on board, found all things ſo mightily to his Satisfaction, that his Grace Generouſly oblig'd every Man and Boy of the Ships Crew to Drink his Health; but left order that none go aſhore till ſhe is Unladen of her Cargo, being actually 26 Tons, and 700 <hi>l.</hi> weight of Silver, fifteen Tons thereof being Pieces of Eight, two Bars or Ingots of Gold 17 <hi>l.</hi> weight, ſix Braſs Cannon of thirty hundred weight each, being as ſervice<g ref="char:EOLhyphen"/>able as at firſt, which amount in the whole to above 200000 <hi>l.</hi> beſides all the Charges. She now rides on this ſide <hi>Graves-end,</hi> and is well Guarded, no perſons being ſuffered to go aboard her, nor come aſhore, without ſpe<g ref="char:EOLhyphen"/>cial Order. It is obſervable, that in this whole Voyage, the Captain hath loſt neither Man nor Boy, although they were in ſo great hazard.</p>
+            <p>This Relation was taken from a Gentleman who was on Board the ſaid Ship the whole Voyage.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
